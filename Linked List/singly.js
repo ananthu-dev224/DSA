@@ -38,6 +38,9 @@ class singlyLinkedList {
 
        while(current !== null){
           asdsadsadsdsadsadadd 
+          dvkjefbvuierbvebv
+          wkjbvuhwbvuhbv
+          jbcuyvbvuhbvhi
        }
 
     }
