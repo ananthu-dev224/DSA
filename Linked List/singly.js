@@ -37,10 +37,7 @@ class singlyLinkedList {
        let previous = null;
 
        while(current !== null){
-          asdsadsadsdsadsadadd 
-          dvkjefbvuierbvebv
-          wkjbvuhwbvuhbv
-          jbcuyvbvuhbvhi
+          
        }
 
     }
