@@ -35,7 +35,11 @@ class singlyLinkedList {
     remove(val){
        let current = this.head;
        let previous = null;
-       
+
+       while(current !== null){
+         
+       }
+
     }
 
     // Displaying the values in linked list
