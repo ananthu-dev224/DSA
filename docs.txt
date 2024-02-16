@@ -1,0 +1,29 @@
+#### DSA WEEK 1 ###
+
+# Palindrome
+# Reverse
+# Merge and Split
+# Sort
+# Duplicate
+# Nth node from 
+
+# Add numbers of two linked lists
+
+# Implement doubly linked list
+
+# Implement Circular linked list
+
+# Practice recursion questions
+Factorial , Fibonacci ,Sum , Power of ...
+
+# Types of recursion
+
+# Linear and Binary Search
+
+# String and Array
+
+@ Applications of all these in real world projects
+
+#### DSA WEEK 2 ###
+
+
