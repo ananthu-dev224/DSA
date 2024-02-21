@@ -9,11 +9,12 @@ function binary(arr,target){
         let middle = Math.floor((start+end)/2)
         if(arr[middle] === target) return middle; 
         if(arr[middle] < target){
-            end = middle - start
+            start = middle + 1
         }else{
-            start = middle + end
+            end = middle -  1
         }
     }
+    return "Not found"
 }
 
-console.log("The index of target is :",binary(arr,5));
+console.log("The index of target is :",binary(arr,4));
