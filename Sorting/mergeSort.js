@@ -22,7 +22,7 @@ function merge(left,right){ // O(n) as we are checking every elements
         }
     }
 
-    return [...sortedArr,...left,...right]
+    return [...sortedArr,...left,...right] //Incase if array is already sorted , left and right will be in crct order
 }
 
 console.log(mergeSort(arr));
