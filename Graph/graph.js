@@ -74,7 +74,8 @@ class Graph {
 
     dfs(startingVertex){
         let stack = []
-        let result = []
+     
+       let result = []
         let visited = new Map()
 
         stack.push(startingVertex)
